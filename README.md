@@ -2,8 +2,8 @@
 
 
 - 👩‍💻 I love coding and learning how things work
-- 🤸‍♀️ In my spare time I do gymnastics, paint and tweet garbage
-- 🎓 I am studying a Master's in CS & AI
+- 🤸‍♀️ In my spare time I enjoy tumbling (gymnastics), painting and tweeting garbage
+- 🎓 I am currently studying a Master's in CS & AI
 - 🔨 One day I'd like to build something useful 
 
 <!--
