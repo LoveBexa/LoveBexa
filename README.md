@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I’m Becky
+
+
+- 👩‍💻 I love programming
+- 🤸‍♀️ In my spare time I do gymnastics, paint and tweet garbage
+- 🎓 I am studying a Master's in CS & AI
+- 🔨 One day I'd like to build something useful 
 
 <!--
 **LoveBexa/LoveBexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
