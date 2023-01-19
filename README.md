@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m Becky
 
 
-- 👩‍💻 I love coding and learning
+- 👩‍💻 I love coding and learning how things work
 - 🤸‍♀️ In my spare time I do gymnastics, paint and tweet garbage
 - 🎓 I am studying a Master's in CS & AI
 - 🔨 One day I'd like to build something useful 
