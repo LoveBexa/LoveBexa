@@ -4,7 +4,7 @@
 - 👩‍💻 I love coding and learning how things work
 - 🤸‍♀️ In my spare time I enjoy tumbling (gymnastics), painting and tweeting garbage
 - 🎓 I am currently studying a Master's in CS & AI
-- 🔨 One day I'd like to build something useful 
+- 🔨 One day I'd like to build something that helps people change careers
 
 <!--
 **LoveBexa/LoveBexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
