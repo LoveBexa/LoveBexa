@@ -3,7 +3,7 @@
 
 - 👩‍💻 I love coding, designing, marketing and writing 
 - 🤸‍♀️ In my spare time I enjoy tumbling (gymnastics), painting and tweeting garbage
-- 🎓 I am currently studying a Master's in CompSci & AI and I have a BA in Graphic Design
+- 🎓 I am currently studying a master's in compsci & ai and I have a BA in graphic design
 - 🔨 One day I'd like to build something that helps people change careers
 
 <!--
