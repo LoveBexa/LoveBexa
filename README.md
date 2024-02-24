@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 I love coding, designing, marketing and writing 
-- 🤸‍♀️ In my spare time I enjoy tumbling (gymnastics), painting and tweeting garbage
+- 🤸‍♀️ In my spare time I enjoy gymnastics, painting, playing the guitar and watching lots of films.
 - 🎓 I am currently studying a master's in compsci & ai and I have a BA in graphic design
 - 🔨 One day I'd like to build something that helps people change careers
 
