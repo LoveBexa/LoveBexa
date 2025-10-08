@@ -3,7 +3,7 @@
 
 - 👩‍💻 I love coding, designing, marketing and writing 
 - 🤸‍♀️ In my spare time I enjoy gym, painting, sewing and DIY
-- 🎓 I have a master's in compsci & ai and a BA in graphic design
+- 🎓 I have a master's in compsci / ai and a BA in graphic design
 - 🔨 One day I'd like to build something relating to upskilling, careers or mental health that helps improve lives.
 
 <!--
